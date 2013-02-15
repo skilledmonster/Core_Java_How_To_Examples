@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
  * This example shows how to read user input from console/keyboard using
  * BufferedReader class
  * 
- * @author Jagamot
+ * @author Jagadeesh
  * 
  */
 public class ReadInputFromConsoleUsingBufferedReader {

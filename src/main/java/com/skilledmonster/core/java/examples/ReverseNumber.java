@@ -5,7 +5,7 @@ package com.skilledmonster.core.java.examples;
  * 
  * This example shows how to reverse a given number
  * 
- * @author Jagamot
+ * @author Jagadeesh
  * 
  */
 public class ReverseNumber {

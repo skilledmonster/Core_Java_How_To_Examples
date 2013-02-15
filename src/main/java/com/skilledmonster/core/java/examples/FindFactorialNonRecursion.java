@@ -7,7 +7,7 @@ package com.skilledmonster.core.java.examples;
  * 
  * Factorial of any number is n!. For example, factorial of 4 = 4*3*2*1 = 24
  * 
- * @author Jagamot
+ * @author Jagadeesh
  * 
  */
 public class FindFactorialNonRecursion {
