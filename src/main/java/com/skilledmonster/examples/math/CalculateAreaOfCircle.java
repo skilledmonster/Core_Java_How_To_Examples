@@ -6,7 +6,7 @@ package com.skilledmonster.examples.math;
  * This example shows how to calculate area of a circle using java.lang.math
  * package
  * 
- * @author Jagamot
+ * @author Jagadeesh
  * 
  */
 public class CalculateAreaOfCircle {
@@ -18,7 +18,8 @@ public class CalculateAreaOfCircle {
 		// calculate area of a circle using Math.PI
 		double circleArea = Math.PI * Math.pow(radius, 2);
 		// display
-		System.out.println("Area of a Cirle with Radius " + radius + " is # " + circleArea);
+		System.out.println("Area of a Cirle with Radius " + radius + " is # "
+				+ circleArea);
 
 	}
 
