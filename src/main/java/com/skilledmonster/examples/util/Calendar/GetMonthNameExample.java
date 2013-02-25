@@ -1,4 +1,4 @@
-package com.skilledmonster.examples.util.Calendar;
+package com.skilledmonster.examples.util.calendar;
 
 import java.util.Calendar;
 
