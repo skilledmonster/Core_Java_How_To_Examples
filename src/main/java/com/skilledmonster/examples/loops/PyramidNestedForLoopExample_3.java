@@ -1,7 +1,7 @@
 package com.skilledmonster.examples.loops;
 
 /**
- * Pyramid Example - Demonstrate For Loop
+ * Pyramid - Nested For Loop Example
  * 
  * This example shows how to generate a pyramid like the one shown below using
  * simple Java for loop
@@ -20,7 +20,7 @@ package com.skilledmonster.examples.loops;
  * @author Jagadeesh
  * 
  */
-public class PyramidForLoopExample_3 {
+public class PyramidNestedForLoopExample_3 {
 
 	public static void main(String[] args) {
 		
