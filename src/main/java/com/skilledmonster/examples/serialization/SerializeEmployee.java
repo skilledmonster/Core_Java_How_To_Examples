@@ -8,6 +8,7 @@ import com.skilledmonster.examples.common.pojo.Employee;
 
 public class SerializeEmployee {
 	public static void main(String[] args) {
+		
 		Employee e = new Employee();
 		e.setName("skilledmonster");
 		e.setAddress("Stamford, CT");
@@ -20,6 +21,7 @@ public class SerializeEmployee {
 			out.writeObject(e);
 			out.close();
 			fileOut.close();
+			System.out.println("Object Serialization Complete!!");
 		} catch (IOException i) {
 			i.printStackTrace();
 		}

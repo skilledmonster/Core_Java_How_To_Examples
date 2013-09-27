@@ -37,6 +37,8 @@ public class CheckIfKeyExistsInHashMap {
 
 		// display if the key exists
 		System.out.println("Does HashMap with key E exists ? # " + keyExists);
+		
+		
 
 	}
 

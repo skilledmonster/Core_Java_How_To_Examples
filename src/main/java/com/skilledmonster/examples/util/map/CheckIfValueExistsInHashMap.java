@@ -34,7 +34,7 @@ public class CheckIfValueExistsInHashMap {
 		System.out.println("Does HashMap with value Apple exists ? # "
 				+ valueExists);
 
-		valueExists = hMap.containsKey("Elephant"); // this key doesn't exist in
+		valueExists = hMap.containsValue("Elephant"); // this key doesn't exist in
 													// the map
 
 		// display if the key exists
